@@ -13,7 +13,7 @@
 |         8|            wielen|                          Rubber wiel 40mm|      nieuw|          3,15|     2|     6,30|
 |         9| spanningsregelaar|      L7805CV 5V     |      nieuw|          1,00    |     1|      1,00   |
 |        10|          voorwiel|        plastic in metalen houder    |      nieuw|           1,28   |   1 |      1,28   |
-|        11|              moer|         M3 x 12   |      recup|             0|     8|        0|
+|        11|              moer|         M3  |      recup|             0|     8|        0|
 |        12|              bout|         M3 x 12   |      recup|             0|     8|        0|
 |        13|             draad|      b-kabels smart signal 8 x 0,80 50cm  |      recup|             0|    1  |        0|
 |        14|         breadbord|                           Breadbord 400mm|      nieuw|          1,02|     1|     1,02|
